@@ -1,0 +1,11 @@
+.container {
+  margin-top: 25vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.timer {
+  color: #344f33;
+  font-size: 100px;
+}

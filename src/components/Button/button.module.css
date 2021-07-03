@@ -1,0 +1,15 @@
+.button {
+  color: white;
+  background-color: #344f33;
+  font-size: 20px;
+  min-width: 100px;
+  min-height: 35px;
+  border: none;
+  border-radius: 3px;
+}
+.button:nth-child(-n + 3) {
+  margin-right: 25px;
+}
+.button:hover {
+  background-color: #4b774a;
+}
